@@ -4,6 +4,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'errored-ember-component-css-reproduce',
+    podModulePrefix: 'errored-ember-component-css-reproduce/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
