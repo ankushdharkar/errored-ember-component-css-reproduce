@@ -1,5 +1,5 @@
 @import "pod-styles"; /*Does not work */
 
-/* Now try this:
-@import "pod-styles";
+/* Now try this with extension:
+@import "pod-styles.css";
 */
